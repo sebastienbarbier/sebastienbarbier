@@ -4,7 +4,7 @@ My name is Sébastien Barbier, I'm a web developer from France 🇫🇷, current
 
 - 🔭 I’m currently working on a Micro Frontend Framework for SAP
 - 🌱 I’m currently learning devops and monitoring
-- 💬 Ask me about anything [on twitter](https://twitter.com/SebBarbier)
+- 💬 Ask me anything [on twitter](https://twitter.com/SebBarbier)
 - 📫 How to reach me: [sebastienbarbier.com/contact](https://sebastienbarbier.com/contact)
 - 😄 Pronouns: he/him
 
