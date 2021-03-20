@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+My name is Sébastien Barbier, I'm a web developer from France 🇫🇷, currently working at SAP, and based in Zurich Switzerland 🇨🇭.
+
+- 🔭 I’m currently working on a Micro Frontend Framework for SAP
+- 🌱 I’m currently learning devops and monitoring
+- 💬 Ask me about anything [on twitter](https://twitter.com/SebBarbier)
+- 📫 How to reach me: [sebastienbarbier.com/contact](https://sebastienbarbier.com/contact)
+- 😄 Pronouns: he/him
+
 <!--
 **sebastienbarbier/sebastienbarbier** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
