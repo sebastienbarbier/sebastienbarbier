@@ -7,7 +7,7 @@ My name is Sébastien Barbier, I'm a web developer from France 🇫🇷, current
 - 💬 Ask me anything [on twitter](https://twitter.com/SebBarbier)
 - 📫 How to reach me: [https://sebastienbarbier.com/contact](https://sebastienbarbier.com/contact)
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: indie maker level padawan 👷‍♂️, playing with photography 📸, and travel by bike 🏍💨.
+- ⚡ Random facts: indie maker level padawan 👷‍♂️, playing with photography 📸, and travel by bike 🏍💨.
 
 <!--
 **sebastienbarbier/sebastienbarbier** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
