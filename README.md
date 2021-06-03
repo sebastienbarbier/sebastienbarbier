@@ -2,7 +2,7 @@
 
 My name is Sébastien Barbier, I'm a web developer from France 🇫🇷, currently working at SAP, and based in Zurich Switzerland 🇨🇭.
 
-- 🔭 I’m currently working on a Micro Frontend Framework for [SAP Field Service Manavement](https://www.sap.com/products/field-service-management.html)
+- 🔭 I’m currently working on a Micro Frontend Framework for [SAP Field Service Management](https://www.sap.com/products/field-service-management.html)
 - 🌱 I’m currently learning devops and monitoring
 - 💬 Ask me anything [on twitter](https://twitter.com/SebBarbier)
 - 📫 How to reach me: [https://sebastienbarbier.com/contact](https://sebastienbarbier.com/contact)
