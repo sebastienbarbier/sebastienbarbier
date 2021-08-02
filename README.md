@@ -1,11 +1,13 @@
 ### Hi there 👋
 
-My name is Sébastien Barbier, I'm a web developer from France 🇫🇷, currently working at SAP, and based in Zurich Switzerland 🇨🇭.
+My name is Sébastien Barbier, I'm a web developer from France 🇫🇷, based in Zurich Switzerland 🇨🇭.
 
-- 🔭 I’m currently working on a Micro Frontend Framework for [SAP Field Service Management](https://www.sap.com/products/field-service-management.html)
-- 🌱 I’m currently learning devops and monitoring
+- 🔭 I’m currently working on my expense tracking app [seven23.io](https://seven23.io)
+- 🌱 I’m currently learning how to communicate better on social networks
+- 👯 I’m looking to collaborate on how to make it more stable and popular
+- 🤔 I’m looking for help with marketing
 - 💬 Ask me anything on twitter [@SebBarbier](https://twitter.com/SebBarbier)
-- 📫 How to reach me: [https://sebastienbarbier.com/contact](https://sebastienbarbier.com/contact)
+- 📫 How to reach me: [sebastienbarbier.com/contact](https://sebastienbarbier.com/contact)
 - 😄 Pronouns: he/him
 - ⚡ Random facts: soon indie maker full time 👷‍♂️, playing with photography 📸, and travel by bike 🏍💨.
 
