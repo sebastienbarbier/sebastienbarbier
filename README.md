@@ -5,7 +5,7 @@ My name is Sébastien Barbier, I'm a web developer from France 🇫🇷, based i
 - 🔭 I’m currently working on my expense tracking app [seven23.io](https://seven23.io)
 - 🌱 I’m currently learning how to communicate better on social networks
 - 👯 I’m looking to collaborate on how to make it more stable and popular
-- 🤔 I’m looking for help with marketing
+- 🤔 I’m looking for help with design and marketing
 - 💬 Ask me anything on twitter [@SebBarbier](https://twitter.com/SebBarbier)
 - 📫 How to reach me: [sebastienbarbier.com/contact](https://sebastienbarbier.com/contact)
 - 😄 Pronouns: he/him
