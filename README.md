@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Sébastien Barbier, I'm a web developer from France 🇫🇷, based in Zurich Switzerland 🇨🇭.
+My name is Sébastien Barbier, I'm a web developer based in Zurich Switzerland 🇨🇭.
 
 - 🔭 I’m currently working on the expense tracking app [seven23.io](https://seven23.io)
 - 🌱 I’m currently learning how to communicate better on social networks
