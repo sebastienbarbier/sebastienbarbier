@@ -8,7 +8,7 @@ My name is Sébastien Barbier, I'm a web developer based in Zurich Switzerland �
 - 🤔 I’m looking for help with design and marketing
 - 💬 Ask me anything on twitter [@SebBarbier](https://twitter.com/SebBarbier)
 - 📫 How to reach me: [sebastienbarbier.com/contact](https://sebastienbarbier.com/contact)
-- 😄 Pronouns: he/him
+- 😄 Pronouns: He/Him
 - ⚡ Random facts: trying to full time indie maker 👷‍♂️, playing with photography 📸, and like to travel by bike 🏍💨.
 
 <!--
