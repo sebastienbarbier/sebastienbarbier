@@ -2,7 +2,7 @@
 
 My name is Sébastien Barbier, I'm a web developer based in Zurich Switzerland 🇨🇭.
 
-- 🔭 I’m currently working on the expense tracking app [seven23.io](https://seven23.io)
+- 🔭 I’m currently working on monitoring app [status.fromedwin.com](https://status.fromedwin.com)
 - 🌱 I’m currently learning how to communicate better on social networks
 - 👯 I’m looking to collaborate on how to make it more stable and popular
 - 🤔 I’m looking for help with design and marketing
