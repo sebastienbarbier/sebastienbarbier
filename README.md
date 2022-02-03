@@ -2,7 +2,7 @@
 
 My name is Sébastien Barbier, I'm a web developer based in Zurich Switzerland 🇨🇭.
 
-- 🔭 I’m currently working on a monitoring app [status.fromedwin.com](https://status.fromedwin.com)
+- 🔭 I’m currently working full time on [seven23.io](https://seven23.io) and [status.fromedwin.com](https://status.fromedwin.com)
 - 🌱 I’m currently learning about web 3.0, especially Defi, NFT, and Metaverse content
 - 👯 I’m looking for a community to join and be part of
 - 🤔 I’m looking for help with design and marketing
