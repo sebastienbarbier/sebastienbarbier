@@ -9,7 +9,7 @@ My name is Sébastien Barbier, I'm a web developer based in Zurich Switzerland �
 - 💬 Ask me anything on twitter [@SebBarbier](https://twitter.com/SebBarbier)
 - 📫 How to reach me: [sebastienbarbier.com/contact](https://sebastienbarbier.com/contact)
 - 😄 Pronouns: He/Him
-- ⚡ Random facts: noob indie maker 👷‍♂️, playing with photography 📸, currently location indenpendant 🌏🎒, like to travel by bike 🏍💨.
+- ⚡ Random facts: indie maker 👷‍♂️, playing with photography 📸, currently location indenpendant 🌏🎒, like to travel by bike 🏍💨.
 
 <!--
 **sebastienbarbier/sebastienbarbier** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
