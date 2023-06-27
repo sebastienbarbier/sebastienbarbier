@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-My name is Sébastien Barbier, I'm a web developer based in Zurich Switzerland 🇨🇭.
+My name is Sébastien Barbier, I'm a software engineer based in Zurich Switzerland 🇨🇭.
 
-- 🔭 I’m currently working full time on [seven23.io](https://seven23.io) and [fromedwin.com](https://fromedwin.com)
+- 🔭 I work as a Freelance, and in parallel bootstrap projects like [seven23.io](https://seven23.io) and [fromedwin.com](https://fromedwin.com)
 - 🌱 I’m currently learning about web 3.0, especially Defi, NFT, and Metaverse content
 - 👯 I’m looking for a community to join and be part of
 - 🤔 I’m looking for help with design and marketing
